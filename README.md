@@ -1,6 +1,6 @@
 # E-commerce Monolith (FastAPI)
 
-Phase 0 scaffold — project structure with placeholder routers for
+scaffold — project structure with placeholder routers for
 auth, catalog, cart, and orders. Nothing is implemented yet beyond
 `/ping` health checks per router; this just proves the app runs and
 is organized correctly before adding real logic.
